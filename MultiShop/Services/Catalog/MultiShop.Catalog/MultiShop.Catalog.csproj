@@ -1,0 +1,53 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.18" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="MongoDB.Driver" Version="3.0.0" />
+    <PackageReference Include="MongoDB.Driver.Core" Version="2.30.0" />
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+    <PackageReference Include="AutoMapper.Extensions" Version="1.1.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="4.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Entities\" />
+    <None Remove="Settings\" />
+    <None Remove="Dtos\" />
+    <None Remove="Dtos\CategoryDtos\" />
+    <None Remove="Dtos\ProductDetailDtos\" />
+    <None Remove="Dtos\ProductDtos\" />
+    <None Remove="Dtos\ProductImageDtos\" />
+    <None Remove="Mapping\" />
+    <None Remove="Services\" />
+    <None Remove="Services\CategoryServices\" />
+    <None Remove="Services\ProductDetailServices\" />
+    <None Remove="Services\ProductImageServices\" />
+    <None Remove="Services\ProductServices\" />
+    <None Remove="Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Settings\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="Dtos\CategoryDtos\" />
+    <Folder Include="Dtos\ProductDetailDtos\" />
+    <Folder Include="Dtos\ProductDtos\" />
+    <Folder Include="Dtos\ProductImageDtos\" />
+    <Folder Include="Mapping\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\CategoryServices\" />
+    <Folder Include="Services\ProductDetailServices\" />
+    <Folder Include="Services\ProductImageServices\" />
+    <Folder Include="Services\ProductServices\" />
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+</Project>

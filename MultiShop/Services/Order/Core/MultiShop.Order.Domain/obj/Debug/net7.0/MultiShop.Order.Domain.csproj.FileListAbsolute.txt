@@ -1,0 +1,12 @@
+/Users/eda/Desktop/MultiShop_ETicaret_MikroService/MultiShop/Services/Order/Core/MultiShop.Order.Domain/bin/Debug/net7.0/MultiShop.Order.Domain.deps.json
+/Users/eda/Desktop/MultiShop_ETicaret_MikroService/MultiShop/Services/Order/Core/MultiShop.Order.Domain/bin/Debug/net7.0/MultiShop.Order.Domain.dll
+/Users/eda/Desktop/MultiShop_ETicaret_MikroService/MultiShop/Services/Order/Core/MultiShop.Order.Domain/bin/Debug/net7.0/MultiShop.Order.Domain.pdb
+/Users/eda/Desktop/MultiShop_ETicaret_MikroService/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net7.0/MultiShop.Order.Domain.csproj.AssemblyReference.cache
+/Users/eda/Desktop/MultiShop_ETicaret_MikroService/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net7.0/MultiShop.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eda/Desktop/MultiShop_ETicaret_MikroService/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net7.0/MultiShop.Order.Domain.AssemblyInfoInputs.cache
+/Users/eda/Desktop/MultiShop_ETicaret_MikroService/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net7.0/MultiShop.Order.Domain.AssemblyInfo.cs
+/Users/eda/Desktop/MultiShop_ETicaret_MikroService/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net7.0/MultiShop.Order.Domain.csproj.CoreCompileInputs.cache
+/Users/eda/Desktop/MultiShop_ETicaret_MikroService/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net7.0/MultiShop.Order.Domain.dll
+/Users/eda/Desktop/MultiShop_ETicaret_MikroService/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net7.0/refint/MultiShop.Order.Domain.dll
+/Users/eda/Desktop/MultiShop_ETicaret_MikroService/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net7.0/MultiShop.Order.Domain.pdb
+/Users/eda/Desktop/MultiShop_ETicaret_MikroService/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net7.0/ref/MultiShop.Order.Domain.dll
